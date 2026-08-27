@@ -1,6 +1,6 @@
 # Bonjour, je suis Océane Talla 
 
-Étudiante en **Techniques de l’informatique ** au Cégep de Lanaudière à Joliette, je m’intéresse au développement logiciel, au développement Web, aux bases de données et à la cybersécurité.
+Étudiante en **Techniques de l’informatique** au Cégep de Lanaudière à Joliette, je m’intéresse au développement logiciel, au développement Web, aux bases de données et à la cybersécurité.
 
 Je terminerai mon DEC en mai 2027 et je suis à la recherche d’un **stage en informatique pour 2027**.
 
