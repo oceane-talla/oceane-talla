@@ -1,50 +1,39 @@
-# Bonjour, je suis Océane Talla 
+# Bonjour, je suis Océane Talla 👋
 
-Étudiante en **Techniques de l’informatique** au Cégep de Lanaudière à Joliette, je m’intéresse au développement logiciel, au développement Web, aux bases de données et à la cybersécurité.
+Finissante en **Techniques de l’informatique** au Cégep de Lanaudière à Joliette, je m’intéresse au développement logiciel, aux applications Web, aux systèmes et à la cybersécurité. Je recherche un **stage en informatique en 2027** pour apprendre et contribuer aux projets d’une équipe.
 
-Je terminerai mon DEC en mai 2027 et je suis à la recherche d’un **stage en informatique pour 2027**.
-
-## Technologies
-
-- **Langages :** C#, Java, PHP, Go, C, SQL et JavaScript
-- **Web :** HTML, CSS et Tailwind CSS
-- **Bases de données :** PostgreSQL et MariaDB
-- **Développement :** .NET, Avalonia, JavaFX, Git et Linux
-- **Infrastructure :** Docker et Microsoft Azure
-
-## Cybersécurité
-
-Je poursuis actuellement le **Certificat professionnel Google en cybersécurité**.
-
-Certificats obtenus :
-
-- Foundations of Cybersecurity
-- Play It Safe: Manage Security Risks
-- Connect and Protect: Networks and Network Security
+🌐 [Mon portfolio](https://oceane-talla.ca/) · [LinkedIn](https://www.linkedin.com/in/oceane-talla-6b6662329/)
 
 ## Projets
 
-Je prépare actuellement la publication de projets scolaires portant notamment sur :
+- **[REFOOD](https://github.com/Youssef-Hamdani/Hackthon_GIT)** — prototype conçu en équipe à Hack Découverte 2026, à Concordia. Pensé pour aider les étudiants à économiser : scanner son frigo, trouver des recettes et chercher les ingrédients manquants parmi les dons, les offres, les trocs sur le campus et les commerces.
+- **[Usine à bonbons](https://github.com/oceane-talla/candy-factory-simulator)** — éditeur et simulateur de production en équipe avec C#, .NET, Avalonia et MVVM.
+- **[Marketplace Web](https://github.com/oceane-talla/php-marketplace)** — application MVC en PHP et MariaDB avec catalogue, achats et paiement Stripe.
+- **[Jeu d’échecs](https://github.com/oceane-talla/chess-game)** — jeu graphique en C# et Windows Forms.
+- **[Gestion de bibliothèque](https://github.com/oceane-talla/java-library-management)** — application Java et JavaFX pour gérer les livres et les emprunts.
+- **[Konoha Clash](https://github.com/oceane-talla/shinobi-trials)** — jeu de combat Web avec PHP, JavaScript et MySQL.
+- **Blackjack mobile** — jeu réalisé dans le cadre scolaire; dépôt à venir.
+- **Application avec RAG** — projet scolaire en cours : une interface graphique pour interroger un système RAG en arrière-plan; dépôt à venir.
 
-- la simulation d’une usine avec C#, .NET, Avalonia et MVVM;
-- une marketplace Web sécurisée avec PHP, MariaDB et Stripe;
-- un jeu d’échecs avec C# et Windows Forms;
-- une application de gestion de bibliothèque avec Java et JavaFX;
-- un laboratoire de centre de support TI;
-- une infrastructure Web distribuée sur Microsoft Azure.
+J’ai également réalisé un laboratoire de **centre de support TI** et une **infrastructure Linux sur Azure**, présentés dans mon [portfolio](https://oceane-talla.ca/).
 
-Les dépôts seront ajoutés progressivement après leur nettoyage, leur documentation et la vérification de leur fonctionnement.
+## Technologies
 
-## Me joindre
+- **Langages :** C#, Java, PHP, JavaScript, SQL, Go, C, HTML et CSS
+- **Données :** PostgreSQL, SQLite, MariaDB, MySQL et JSON
+- **Interfaces :** .NET, Avalonia, JavaFX, WinForms et Tailwind CSS
+- **Outils et systèmes :** Git, Linux, Docker, Azure, NGINX et Apache
 
-[LinkedIn](https://www.linkedin.com/in/oceane-talla-6b6662329/)
+## Formation continue
+
+Je poursuis le **certificat professionnel Google en cybersécurité**. J’ai obtenu les certificats Foundations of Cybersecurity, Play It Safe: Manage Security Risks et Connect and Protect: Networks and Network Security.
 
 ---
 
-# Hi, I'm Océane Talla 
+# Hi, I'm Océane Talla 👋
 
-I am a **Computer Science Technology – Programming** student at Cégep de Lanaudière in Joliette, Quebec. I am interested in software development, web development, databases, and cybersecurity.
+I'm a Computer Science Technology student at Cégep de Lanaudière in Joliette, Quebec, seeking a **2027 IT internship**. I'm interested in software development, web applications, systems and cybersecurity.
 
-I expect to graduate in May 2027 and I am currently seeking an **IT internship for 2027**.
+Recent work includes **[REFOOD](https://github.com/Youssef-Hamdani/Hackthon_GIT)**, a team prototype built at Hack Découverte 2026 to help students save on food, and a school project in progress combining a graphical interface with a RAG system.
 
-My projects will be published progressively after being reviewed, cleaned, tested, and documented.
+Explore my projects above or visit my [portfolio](https://oceane-talla.ca/) and [LinkedIn](https://www.linkedin.com/in/oceane-talla-6b6662329/).
