@@ -12,7 +12,7 @@ Finissante en **Techniques de l’informatique** au Cégep de Lanaudière à Jol
 - **[Jeu d’échecs](https://github.com/oceane-talla/chess-game)** — jeu graphique en C# et Windows Forms.
 - **[Gestion de bibliothèque](https://github.com/oceane-talla/java-library-management)** — application Java et JavaFX pour gérer les livres et les emprunts.
 - **[Konoha Clash](https://github.com/oceane-talla/shinobi-trials)** — jeu de combat Web avec PHP, JavaScript et MySQL.
-- **Blackjack mobile** — jeu réalisé dans le cadre scolaire; dépôt à venir.
+- **[Blackjack mobile](https://github.com/oceane-talla/Blackjack)** — jeu réalisé dans le cadre scolaire.
 - **Application avec RAG** — projet scolaire en cours : une interface graphique pour interroger un système RAG en arrière-plan; dépôt à venir.
 
 J’ai également réalisé un laboratoire de **centre de support TI** et une **infrastructure Linux sur Azure**, présentés dans mon [portfolio](https://oceane-talla.ca/).
